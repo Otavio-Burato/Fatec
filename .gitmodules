@@ -1,3 +1,6 @@
 [submodule "github-work"]
 	path = github-work
 	url = https://github.com/Otavio-Burato/github-work
+[submodule "InterFatecs2020"]
+	path = InterFatecs2020
+	url = https://github.com/Otavio-Burato/InterFatecs2020
